@@ -1,6 +1,6 @@
 // src/components/Hero.js
 import React from 'react';
-import heroAnimation from './hero-animation.gif'; // Assuming you have an animation image or gif
+import heroAnimation from '../assets/670shots_so.png'; // Assuming you have an animation image or gif
 
 const Hero = () => {
   return (
